@@ -22,7 +22,7 @@ const Skill = () => {
 
         },
         {
-            name: "Track your \nprogress",
+            name: "Track your \nmusic style",
             description: "Track your recent played songs. Keep track of your favorite playlists and albums",
             bgColor: "#edf2f8",
             icon:
