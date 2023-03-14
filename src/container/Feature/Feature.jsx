@@ -10,8 +10,8 @@ const Skill = () => {
 
     const skills = [
         {
-            name: "Write better,\nexpress more",
-            description: "Explore rich features editor to help you write diaries with more fun. Write down your thought and moments to enjoy later",
+            name: "Play more,\nenjoy better",
+            description: "Explore rich features player to help you play your favorite songs with multiple options.",
             bgColor: "#edf2f8",
             icon:
                 (<span className='app__flex bg-gradient-to-l rounded-full p-2 h-24 w-24 text-transparent from-indigo-600 to-blue-600'>
@@ -23,7 +23,7 @@ const Skill = () => {
         },
         {
             name: "Track your \nprogress",
-            description: "Track your diaries with a timeline. Keep track of your mood and events when express your feeling.",
+            description: "Track your recent played songs. Keep track of your favorite playlists and albums",
             bgColor: "#edf2f8",
             icon:
                 (<span className='app__flex bg-gradient-to-l rounded-full p-2 h-24 w-24 text-transparent to-indigo-700 from-blue-800'>
@@ -33,8 +33,8 @@ const Skill = () => {
                 </span>)
         },
         {
-            name: "Enjoying review \nyour moments",
-            description: "Multiple diary view mode and list view for you to review and enjoy reading your diaries.",
+            name: "Enjoying \nyour moments",
+            description: "Organize your songs into album, playlist for specific moment and style.",
             bgColor: "#edf2f8",
             icon:
                 (<span className='app__flex bg-gradient-to-b rounded-full p-2 h-24 w-24 text-transparent from-violet-800 to-indigo-800'>

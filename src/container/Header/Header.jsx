@@ -45,7 +45,7 @@ const Header = () => {
                 className='app__header-img'>
                 <div className='w-full invisible lg:visible absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 px-8 z-10'>
                     <h1 className='text-6xl text-center font-black'>The MusicOwl App</h1>
-                    <p className='mt-8 w-1/2 text-2xl text-center mx-auto'>Want to keep track your events. Try MusicOwl to help you write for enjoying your moments</p>
+                    <p className='mt-8 w-1/2 text-2xl text-center mx-auto'>Want to keep track your songs. Try MusicOwl to help you play and enjoy your favorite songs</p>
                     <div className='mx-auto mt-8 w-48'>
                         <PlayButton />
                     </div>
